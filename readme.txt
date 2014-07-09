@@ -13,24 +13,23 @@ CMS2CMS: PHP-Fusion to WordPress Migration Plugin gives an excellent opportunity
 
 With the help of CMS2CMS: PHP-Fusion to WordPress Migration Plugin you have an excellent opportunity to move your current web project a step forward towards success with minimal business disruption. Besides, no special skills or technical experience are required for successful migration. 
 
-Supported WordPress versions: 3.x 
+*Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
-Currently Supported Entities that can be migrated from PHP-Fusion to WordPress with the help of CMS2CMS :
- - pages
- - content images 
- - internal links
+= Currently Supported Entities that can be migrated from PHP-Fusion to WordPress: =
+* *pages*
+* *content images*
+* *internal links*
 
-Additional Migration Options provided by CMS2CMS service are:
+= Additional Migration Options provided by CMS2CMS service are: =
 - clear WordPress data before migration
 
-Features of Automated Migration that capture the users’ attention most:
-- Easy - due to its intuitive interface, CMS2CMS service suits both experienced developers and average users to make use of.
-- Fast - because the migration process is fully automated, CMS2CMS conversion is a matter of approximately 15 min (depending on the size of a website).
-- Free Demo Available - can come in handy for those who wish to see the website migration process in action and to estimate the results.
-- Live Chat Support -  provides all-encompassing support with a human behind it at any step of the migration path. 
+= Features of Automated Migration that capture the users’ attention most: =
+* Easy - due to its intuitive interface, CMS2CMS service suits both experienced developers and average users to make use of.
+* Fast - because the migration process is fully automated, CMS2CMS conversion is a matter of approximately 15 min (depending on the size of a website).
+* Free Demo Available - can come in handy for those who wish to see the website migration process in action and to estimate the results.
+* Live Chat Support -  provides all-encompassing support with a human behind it at any step of the migration path. 
 
-Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between PHP-Fusion and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.
-
+*Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between PHP-Fusion and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
 == Installation ==
 
