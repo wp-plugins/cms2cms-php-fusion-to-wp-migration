@@ -18,6 +18,10 @@ With the help of CMS2CMS: PHP-Fusion to WordPress Migration Plugin you have an e
 
 *Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
+*There is Free Demo available (migration of limited number of pages).*
+
+*Full Migration starts from $9.*
+
 = Currently Supported Entities that can be migrated from PHP-Fusion to WordPress: =
 * *pages*
 * *content images*
