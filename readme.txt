@@ -13,14 +13,13 @@ CMS2CMS: PHP-Fusion to WordPress Migration Plugin gives an excellent opportunity
 
 With the help of CMS2CMS: PHP-Fusion to WordPress Migration Plugin you have an excellent opportunity to move your current web project a step forward towards success with minimal business disruption. Besides, no special skills or technical experience are required for successful migration. 
 
-= Video =
-[youtube https://www.youtube.com/watch?v=YkmsPySbi_w] 
-
 *Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
-*There is Free Demo available (migration of limited number of pages).*
+* *There is Free Demo available (migration of limited number of pages).*
+* *Full Migration starts from $9.*
 
-*Full Migration starts from $9.*
+= Video =
+[youtube https://www.youtube.com/watch?v=YkmsPySbi_w] 
 
 = Currently Supported Entities that can be migrated from PHP-Fusion to WordPress: =
 * *pages*
