@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: PHP-Fusion to WordPress, PHP-Fusion to WordPress migration, convert PHP-Fusion to WordPress, migrate PHP-Fusion to WordPress, images, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ CMS2CMS: PHP-Fusion to WordPress Migration Plugin gives an excellent opportunity
 
 With the help of CMS2CMS: PHP-Fusion to WordPress Migration Plugin you have an excellent opportunity to move your current web project a step forward towards success with minimal business disruption. Besides, no special skills or technical experience are required for successful migration. 
 
-*Supported WordPress versions:* 3.x (new software versions are constantly being added).
+*Supported WordPress versions:* 4.x (new software versions are constantly being added).
 
 * *There is Free Demo available (migration of limited number of pages).*
 * *Full Migration starts from $9.*
@@ -35,7 +35,7 @@ With the help of CMS2CMS: PHP-Fusion to WordPress Migration Plugin you have an e
 * Free Demo Available - can come in handy for those who wish to see the website migration process in action and to estimate the results.
 * Live Chat Support -  provides all-encompassing support with a human behind it at any step of the migration path. 
 
-More info: http://www.cms2cms.com/supported-cms/php-fusion-to-wordpress-migration/
+More info: http://www.cms2cms.com/supported-cms/php-fusion-to-wordpress-migration/?utm_source=PHP-Fusion&utm_medium=Link&utm_campaign=WordPress_plugins
 
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between PHP-Fusion and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
