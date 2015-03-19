@@ -26,8 +26,11 @@ With the help of CMS2CMS: PHP-Fusion to WordPress Migration Plugin you have an e
 * *content images*
 * *internal links*
 
+
 = Additional Migration Options provided by CMS2CMS service are: =
 - clear WordPress data before migration
+- 301 redirects from old URLs to new URLs
+- forms
 
 = Features of Automated Migration that capture the users’ attention most: =
 * Easy - due to its intuitive interface, CMS2CMS service suits both experienced developers and average users to make use of.
